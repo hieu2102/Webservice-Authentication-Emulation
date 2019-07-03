@@ -1,0 +1,16 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hieu Duy Nguyen <hieund2102@gmail.com> (https://github.com/hieu2102)",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
